@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E6+Opshhpk3rxrn/ZSY7iIxZ9aEhtPNPgkAf3QBlGL4FIuPIbn1DoEUI669xjSsg6jk98Eoq+G+RuB92osPtgg==",
+  "dgSpecHash": "s4pNBl70mI9K848+cNUDQrIeTNHCr/TZwS0NqOTDTi6VuRcNZbfv1tkYKgrrSChwZ7oagJtzVnyJsLQQBWpo+g==",
   "success": true,
-  "projectFilePath": "E:\\Project Repo\\EFCore6\\EFCore6\\EFCore6.csproj",
+  "projectFilePath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6\\EFCore6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jelly\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jelly\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

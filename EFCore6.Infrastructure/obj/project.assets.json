@@ -2388,11 +2388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project Repo\\EFCore6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj",
+      "projectUniqueName": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj",
       "projectName": "EFCore6.Infrastructure",
-      "projectPath": "E:\\Project Repo\\EFCore6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj",
+      "projectPath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jelly\\.nuget\\packages\\",
-      "outputPath": "E:\\Project Repo\\EFCore6\\EFCore6.Infrastructure\\obj\\",
+      "outputPath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jelly\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2303,11 +2303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project Repo\\EFCore6\\EFCore6.Application\\EFCore6.Application.csproj",
+      "projectUniqueName": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Application\\EFCore6.Application.csproj",
       "projectName": "EFCore6.Application",
-      "projectPath": "E:\\Project Repo\\EFCore6\\EFCore6.Application\\EFCore6.Application.csproj",
+      "projectPath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Application\\EFCore6.Application.csproj",
       "packagesPath": "C:\\Users\\jelly\\.nuget\\packages\\",
-      "outputPath": "E:\\Project Repo\\EFCore6\\EFCore6.Application\\obj\\",
+      "outputPath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2324,8 +2324,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Project Repo\\EFCore6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj": {
-              "projectPath": "E:\\Project Repo\\EFCore6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj"
+            "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj": {
+              "projectPath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Infrastructure\\EFCore6.Infrastructure.csproj"
             }
           }
         }

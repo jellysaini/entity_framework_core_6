@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F21gweCbcw60pkIqC6RYeMeylqeBcAUj9fsP8YdGzq0xwzkXo9YT68VaonNsT5gLMUuOyrcyj0rhRZxtVhFvxg==",
+  "dgSpecHash": "dfYf69C/VY5F7mrnG7Ydxu6D3ZQcd3lLhBZ1j8tx5k20MpmEmzbPep/KRttgyhMK2DQ1BTlVTH1VzG9QKCpcpw==",
   "success": true,
-  "projectFilePath": "E:\\Project Repo\\EFCore6\\EFCore6.Application\\EFCore6.Application.csproj",
+  "projectFilePath": "E:\\Github Projects\\entity_framework_core_6\\EFCore6.Application\\EFCore6.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jelly\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jelly\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
