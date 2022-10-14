@@ -1,0 +1,14 @@
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\bin\Debug\net6.0\EFCore6.Infrastructure.deps.json
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\bin\Debug\net6.0\EFCore6.Infrastructure.runtimeconfig.json
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\bin\Debug\net6.0\EFCore6.Infrastructure.dll
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\bin\Debug\net6.0\EFCore6.Infrastructure.pdb
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.csproj.AssemblyReference.cache
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.AssemblyInfoInputs.cache
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.AssemblyInfo.cs
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.dll
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\refint\EFCore6.Infrastructure.dll
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.pdb
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\EFCore6.Infrastructure.genruntimeconfig.cache
+E:\Project Repo\EFCore6\EFCore6.Infrastructure\obj\Debug\net6.0\ref\EFCore6.Infrastructure.dll

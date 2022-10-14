@@ -1,0 +1,15 @@
+E:\Project Repo\EFCore6\EFCore6.Application\bin\Debug\net6.0\EFCore6.Application.deps.json
+E:\Project Repo\EFCore6\EFCore6.Application\bin\Debug\net6.0\EFCore6.Application.dll
+E:\Project Repo\EFCore6\EFCore6.Application\bin\Debug\net6.0\EFCore6.Application.pdb
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.csproj.AssemblyReference.cache
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.AssemblyInfoInputs.cache
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.AssemblyInfo.cs
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.csproj.CoreCompileInputs.cache
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.dll
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\refint\EFCore6.Application.dll
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.pdb
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\ref\EFCore6.Application.dll
+E:\Project Repo\EFCore6\EFCore6.Application\bin\Debug\net6.0\EFCore6.Infrastructure.dll
+E:\Project Repo\EFCore6\EFCore6.Application\bin\Debug\net6.0\EFCore6.Infrastructure.pdb
+E:\Project Repo\EFCore6\EFCore6.Application\obj\Debug\net6.0\EFCore6.Application.csproj.CopyComplete
